@@ -1,0 +1,4 @@
+Resolusi kedepan
+- Membuat website portfolio sederhana
+- Membuat sistem informasi manajemen kemaritiman sederhana
+- Membuat sistem informasi akademik sederhana
