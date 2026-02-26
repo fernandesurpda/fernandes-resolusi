@@ -2,3 +2,5 @@ Resolusi kedepan
 - Membuat website portfolio sederhana
 - Membuat sistem informasi manajemen kemaritiman sederhana
 - Membuat sistem informasi akademik sederhana
+- Membuat aplikasi pelaporan kerusakan infrastruktur
+- Membuat sistem informasi pariwisata
