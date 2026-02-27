@@ -1,0 +1,5 @@
+Rencana membuat landing page untuk SIMK (Sistem Informasi Manajemen Kemaritiman)
+- HTML
+- CSS
+- JS
+- PHP
